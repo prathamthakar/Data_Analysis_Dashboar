@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2026.
 ## Data Set Used
 <a href="Excel Dashboard.xlsx">Click here to download the dataset</a>
 ## Questions (KPIs)
@@ -41,5 +41,5 @@ Adult age group (30-49 yrs) is contributing maximum (~50%).
 
 Amazon, Flipkart, and Myntra channels are contributing maximum (~80%).
 ## Final Conclusion
-To improve sales in 2023, Vrinda Store should target women customers of age group (30-49) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+To improve sales in 2026, Vrinda Store should target women customers of age group (30-49) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
