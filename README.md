@@ -31,4 +31,14 @@ Data Processing: Created "Age Group" and "Month" columns using Excel formulas.
 Data Analysis: Built Pivot Tables to answer the business questions.
 
 Data Visualization: Created an interactive dashboard with charts and slicers.
+## Project Insights
+Women are more likely to buy compared to men (approx. 65%).
+
+Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (approx. 35% contribution).
+
+Adult age group (30-49 yrs) is contributing maximum (~50%).
+
+Amazon, Flipkart, and Myntra channels are contributing maximum (~80%).
+## Final Conclusion
+To improve sales in 2023, Vrinda Store should target women customers of age group (30-49) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
