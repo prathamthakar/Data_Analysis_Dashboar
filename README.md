@@ -23,6 +23,7 @@ Which channel is contributing to maximum sales?
 Highest selling category?
 ## Dashboard Image
 <img width="1870" height="621" alt="Vrindal Dashboard" src="https://github.com/user-attachments/assets/eb9dce45-f841-4d4a-afd8-9dd77792d8c6" />
+
 ## Process
 Data Cleaning: Verified data for any null values or anomalies.
 
